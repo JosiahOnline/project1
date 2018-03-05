@@ -5,7 +5,7 @@ description: How to gain more sales through branding
 image: assets/images/blog2.jpg
 ---
 
-Nowadays almost every companies should have their own website. Whenever customers want to know you more, the first thing they do is to google your brand. Thus having a website is more than just putting information and description of your products and services. It is about engaging visitors with useful content that excel from the rest of your competitors. By doing so, you are telling your visitors you are one of the best in your industry. 
+<strong>Nowadays</strong> almost every companies should have their own website. Whenever customers want to know you more, the first thing they do is to google your brand. Thus having a website is more than just putting information and description of your products and services. It is about engaging visitors with useful content that excel from the rest of your competitors. By doing so, you are telling your visitors you are one of the best in your industry. 
 However the funny thing is that most of the companies doesn't maintain their website, giving visitors a bad impression of your brand. Imagine a company doesn't even take care of their own website, do you really think they will give their best when dealing with customers? Forget about regular customers, you are losing out all the chances of getting new customers every time they visit your website. No wonder business stagnant and new customers are hard to come by. You need a new strategies and luckily it's not hard to fix it. 
 Below are some of the ways you can use: 
 
