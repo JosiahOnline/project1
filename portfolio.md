@@ -11,11 +11,11 @@ nav-menu: 3
 Below are two of my portfolio that I have helped my client. 
 
 <h3><strong><a href="http://www.ezyhome2u.com" target="_blank">1. EzyHome</a></strong></h3>
-![image]({{ site.url | absolute_path}}/assets/images/ezyhome.jpg)<br>
+![image]({{ site.baseurl | absolute_path}}/assets/images/ezyhome.jpg)<br>
 <strong>Ezyhome</strong> started as a home improvement center that provide services such as home renovations. However, as their business grows, they started to expand their services such as wallpaper for your living room, bedroom, etc. They also provide laminate flooring that is affordable, easy installation, easy clean and beautifully designed. Beside that, they do provide artificial grass that doesn't need weekly maintenance. Save your time while you can still enjoy the greenness in any area of your house. Ezyhome has grown so fast that now they have opened 8 showrooms and still growing in Malaysia. Do visit their visit by clicking <strong><a href="http://www.ezyhome2u.com" target="_blank">"EzyHome"</a></strong>
 
 <h3><strong><a href="http://www.cogssandakan.com" target="_blank">2. The Church of Good Shepherd, Sandakan</a></strong></h3>
-![image]({{ site.url | absolute_path}}/assets/images/cogs.jpg)<br>
+![image]({{ site.baseurl | absolute_path}}/assets/images/cogs.jpg)<br>
 <strong>The Church of Good Shepherd or COGS Sandakan</strong> is my first involvement in a non-profit organization. There are many challenges where I have to overcome. After extensive research, simplicity and good user experiences were used. Some words were not used such as "ministry" because we believe a church website is not just for their members, but also for new visitors who aren't familiar with the church culture and environment. Thus we simplify everything and emphasize "Events/Activities" as our main contents under announcement. Events being categorized as "Upcoming, Ongoing and Past events" for easy understanding of all our activities. Beside that, we also want our members able to share and invite their friends when these events become available. Another important thing is the language which we don't want to just translate. We want to personalize content whereby it is only for a specific target audience based on their preferred language. Thus 3 languages with different contents of events/activities were chosen. This is a good example to deliver relevant content to the target audience. You only want to receive content that is related to you, not the opposite. Click <strong><a href="http://www.cogssandakan.com" target="_blank">"COGS Sandakan"</a></strong>
 
 <h3><strong>More Projects are on the way!</strong></h3>

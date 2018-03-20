@@ -12,22 +12,22 @@ image: assets/images/blog3.jpg
 Most of the web hosting companies provide you a way to check whether the name you want is available or not. Famous web hosting such as below:
 
 <h3><strong>1.Godaddy</strong></h3>
-![test image]({{ site.url | absolute_path}}/assets/images/Godaddy.jpg)
+![test image]({{ site.baseurl | absolute_path}}/assets/images/Godaddy.jpg)
 
 <h3><strong>2.1and1</strong></h3>
-![test image]({{ site.url | absolute_path}}/assets/images/1&1.jpg)
+![test image]({{ site.baseurl | absolute_path}}/assets/images/1&1.jpg)
 
 <h3><strong>3.Bluehost</strong></h3>
-![test image]({{ site.url | absolute_path}}/assets/images/Bluehost.jpg)
+![test image]({{ site.baseurl | absolute_path}}/assets/images/Bluehost.jpg)
 
 <h3><strong>4.Hostgator</strong></h3>
-![test image]({{ site.url | absolute_path}}/assets/images/hostgator.jpg)
+![test image]({{ site.baseurl | absolute_path}}/assets/images/hostgator.jpg)
 
 <h3><strong>5.Namecheap</strong></h3>
-![test image]({{ site.url | absolute_path}}/assets/images/Namecheap.jpg)
+![test image]({{ site.baseurl | absolute_path}}/assets/images/Namecheap.jpg)
 
 <h3><strong>6.Register.com</strong></h3>
-![test image]({{ site.url | absolute_path}}/assets/images/register.jpg)
+![test image]({{ site.baseurl | absolute_path}}/assets/images/register.jpg)
 
 <h3><strong>Step 2: Check the price</strong></h3>
 
