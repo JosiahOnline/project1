@@ -1,8 +1,8 @@
 # site settings
 title: OnlineBah
 subtitle: Sandakan
-email: josiahsoh@gmail.com
-description: Welcome to my website!<br>How can I help you?
+email: onlinebah2u@gmail.com
+description: Welcome to my website!<br> How can I help you?
 baseurl: /project1 # the subpath of your site, e.g. /blog work only host in github pages not local
 url: "" # the base hostname & protocol for your site
 author:
