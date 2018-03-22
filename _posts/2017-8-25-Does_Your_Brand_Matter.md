@@ -19,53 +19,53 @@ The more value you put into your website, the better brand perception you might 
 Below are some the interesting list: 
 
 <h4><strong>1.Amazon</strong></h4>
-![image]({{ site.baseurl | absolute_path}}/assets/images/amazon.jpg)
+![image]({{ site.url | absolute_path}}/assets/images/amazon.jpg)
 
 <h4><strong>2.Apple</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/apple.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/apple.jpg)
 
 <h4><strong>3.AT&T</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/AT&T.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/AT&T.jpg)
 
 <h4><strong>4.Delta Airline</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/deltaairline.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/deltaairline.jpg)
 
 <h4><strong>5.HP</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/hp.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/hp.jpg)
 
 <h4><strong>6.IBM</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/ibm.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/ibm.jpg)
 
 <h4><strong>7.Netflix</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/netflix.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/netflix.jpg)
 
 <h3><strong>Step 3: Observe Your Own Industry</strong></h3>
 
 Every industries have their own share of beauty, if you just look close enough. Firstly, check their website and see how good they are. Then write down the features, functions or even design that you think it suit your company. However there is no right or wrong, but if you want to have a better understanding, you might want to consult professional web agency to help you out. They offer valuable advises/insight which can greatly help you out. For example, OnlineBah is a web digital agency, thus in order to keep us up to the latest trend and technologies, we always observe. Below are some of the agency which we find very interesting and creative. 
 
 <h4><strong>1.Digital Telepathy</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/dtelepathy.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/dtelepathy.jpg)
 
 <h4><strong>2.Big Spaceship</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/bss.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/bss.jpg)
 
 <h4><strong>3.Edge of the Web</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/eftw.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/eftw.jpg)
 
 <h4><strong>4.Pink Squid</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/pinksquid.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/pinksquid.jpg)
 
 <h4><strong>5.Litttle Giant</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/littlegiant.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/littlegiant.jpg)
 
 <h4><strong>6.Black Sheep Design</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/blacksheepdesign.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/blacksheepdesign.jpg)
 
 <h4><strong>7.Digital Hot house</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/dhothouse.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/dhothouse.jpg)
 
 <h4><strong>8.GSADesign</strong></h4>
-![test image]({{ site.baseurl | absolute_path}}/assets/images/gsadesign.jpg)
+![test image]({{ site.url | absolute_path}}/assets/images/gsadesign.jpg)
 
 <h3><strong>Step 4: Test it with others</strong></h3>
 

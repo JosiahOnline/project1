@@ -23,7 +23,7 @@ Sales Funnel means the buyer's journey to purchase. There are many different way
 No one knows about your latest products or services until you tell them. That's why there is roadshow, tv ads, radio ads, newspaper ads, Facebook ads, etc. All these activities are meant to create sales through "AIDA" Sales Funnel. If you want to learn more, google it and tell me what you have gained. <br>
 
 <h3><strong>"AIDA" Sales Funnel</strong></h3>
-![image]({{ site.baseurl | absolute_path}}/assets/images/aida1.jpg)
+![image]({{ site.url | absolute_path}}/assets/images/aida1.jpg)
 
 <!--
 <h3><strong>2.Choose the right channels</strong></h3>
