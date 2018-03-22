@@ -51,4 +51,4 @@ For example www.onlinebah.com, .com is the domain name extension. You may want t
 
 <h3><strong>What's Next?</strong></h3>
 
-After you purchased your domain name, you should check out my article of <strong>Step-by-step Guide to make your First Website</strong>. Enjoy the reading!
+After you purchased your domain name, you should check out my article of <strong><a href="{{ site.baseurl }}/2017/05/22/Guide_To_Your_First_Website.html">Step-by-step Guide to make your First Website</a></strong>. Enjoy the reading!

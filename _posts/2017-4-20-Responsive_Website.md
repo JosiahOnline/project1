@@ -1,22 +1,17 @@
 ---
 layout: post
 title: Responsive Website
-description: Accessible by all devices
-image: assets/images/blog7.jpg
+description: Design that fits all devices
+image: assets/images/responsive.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<h3><strong>What is Responsive Website?</strong></h3>
+Almost every client wants a mobile version of their website nowadays. This is because everyone google through their smartphone. According to studies (OpenSignal report), there are more than 24,000 unique Android devices - both smartphones and tablets and they are accounted 81.7 percent of the global market share. Whereby iOS (iPhone, ipad) is just 17.9 percent and the rest is Microsoft Window Phones and Blackberry (in which both already lose out in the market). 
+Gone are the days whereby we only search answers through our computer or laptops. Now you can access the internet through many devices: desktop (computer), Notebook(laptop), tablets (ipad, Kindle) and smartphone (Samsung, Vivo, Huawei, iPhone, etc). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
+<h3><strong>So how do you keep up with all these unique devices?</strong></h3>
+The answer is responsive website. Responsive Website means your website can be view by any kind of devices, it is a mobile version that fits into these screens perfectly. Responsive Website makes your web page looks good and consistent across all devices. It was a concept started back in 2010 due to the growth of tablets and smartphone with many different resolutions and screen size. Back in those days it is very difficult to maintain these design with so many different screen sizes. Thus the concept was borned with the intention to solve this problems and speed up the process in daily maintanance. 
+If you want to know more about Responsibe Website/Web Design, I suggest you watch the video below:
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<h3><strong>Responsive Website Explained</strong></h3>
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/S48-8wfFxPY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
