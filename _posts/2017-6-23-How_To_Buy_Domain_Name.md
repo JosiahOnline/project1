@@ -5,11 +5,11 @@ description: Guide to purchase your domain name
 image: assets/images/blog3.jpg
 ---
 
-<strong>Domain name</strong> is like your trading name in the web. When you decide to have your own website, the first step is to think of the domain name which you want to related to your products and services. A unique and perhaps meaning domain name which you want visitor to remember it easily. 
+<strong>Domain name</strong> is like your trading name in the web. When you decide to have your own website, the first step is to think of the domain name which you want to relate to your products and services. A unique and perhaps meaning domain name which you want visitor to remember it easily. 
 
 <h3><strong>Step 1: Check availability</strong></h3>
 
-Most of the web hosting companies provide you a way to check whether the name you want is available or not. Famous web hosting such as below:
+Most of the web hosting companies provide you a way to check whether the name you want is available or not. The famous web hosting such as below:
 
 <h3><strong>1.Godaddy</strong></h3>
 ![test image]({{ site.url | absolute_path}}/assets/images/Godaddy.jpg)
@@ -31,11 +31,11 @@ Most of the web hosting companies provide you a way to check whether the name yo
 
 <h3><strong>Step 2: Check the price</strong></h3>
 
-Each of the web hosting providers above have their own pricing strategies for Domain Name. Normally they will give discount when you purchase domain name with them during the 1st Year. Subsequently the second and third year will be back to normal rate. However do compare and check out the price. You may be surprised with some offering FREE Domain Name for 1st Year when you purchase web hosting services with them. 
+Each of the web hosting providers above has their own pricing strategies for the Domain Name. Normally they will give discounts when you purchase a domain name with them during the 1st Year. Subsequently the second and third year will be back to normal rates. However, do compare and check out the price. You may be surprised with some offering FREE Domain Name for 1st Year when you purchase web hosting services with them.
 
 <h3><strong>Step 3: Check the Domain Name Extension</strong></h3>
 
-For example www.onlinebah.com, .com is the domain name extension. You may want to check as different web hosting companies provide different domain name extension. Prices may vary and it depends on the popularity of the domain name extension and your countries. Normally .com, .org, .net, .biz, .info, .co are available for most web hosting companies. However do understand these extensions and choose wisely as they offer different meanings. Below is the list of their respective meaning. 
+For example www.onlinebah.com, .com is the domain name extension. You may want to check as different web hosting companies provide different domain name extension. Prices may vary and it depends on the popularity of the domain name extension and your countries. Normally.Com, .Org, .Net, .Biz, .Info, .Co are available for most web hosting companies. However, do understand these extensions and choose wisely as they offer different meanings. Below is the list of their respective meaning.
 <strong>1.com</strong> - represents the word "commercial," and is the most widely used extension in the world. Most businesses prefer a .com domain name because it is a highly recognized symbol for having a business presence on the Internet. 
 <strong>2.net</strong> - represents the word "network," and is most commonly used by Internet service providers, Web-hosting companies or other businesses that are directly involved in the infrastructure of the Internet. Additionally, some businesses choose domain names with a .net extension for their intranet Websites. 
 <strong>3.org</strong> - represents the word "organization," and is primarily used by non-profits groups or trade associations. 
@@ -51,4 +51,4 @@ For example www.onlinebah.com, .com is the domain name extension. You may want t
 
 <h3><strong>What's Next?</strong></h3>
 
-After you purchased your domain name, you should check out my article of <strong><a href="{{ site.url }}/2017/05/22/Guide_To_Your_First_Website.html">Step-by-step Guide to make your First Website</a></strong>. Enjoy the reading!
+Before you purchase your domain name, you might want to check out my next article <strong><a href="{{ site.url }}/2017/05/22/Guide_To_Your_First_Website.html">Step-by-step Guide to make your First Website</a></strong>. This is a a good reading for beginners. Enjoy the reading!
