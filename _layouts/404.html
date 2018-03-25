@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+   <section class="error-page">
+    <div class="error-container">
+        <h1>{{page.description}}</h1>
+        <p>{{page.title}}</p>
+    <a href="{{site.url | absolute_path}}">Back to Home</a></div>
+</section>
+
+
+</body>
+
+</html>

@@ -5,7 +5,7 @@ metaname: OnlineBah! Your solution for Web Development in Sandakan, Sabah.
 metadescription: Not just portfolio, but also my thoughts on these projects.
 alt: Web Developer as Freelancer
 image: assets/images/portfolio.jpg
-nav-menu: 3
+nav-menu: 1
 ---
 
 <strong>When I first</strong> got myself into the marketing and communications department, I was naive to think everything I studies and learned from universities was good enough to contribute to the company I "serve" at that time. I was wrong! There were many things I didn't/couldn't know about unless I get my hands dirty doing all the necessary steps. And then I was involved with the graphic and packaging design process which open my eyes of the importance of design elements that influences a person's decision; be it in the field of retail industries to eCommerce online, everything got to do with design elements! We are now living in the era whereby design plays an important role in decision making. Gone are the days whereby consumer purchase purely based on features/functions. Especially for new brands or products, consumers are more likely to trust them based on the design, shape, and even pricing they see. It is the same as your business website. If you want to build your brand, you can't purely rely on social media channels. You got to have your own website because consumers will search for you once they notice your ads in any of these channels.<br>

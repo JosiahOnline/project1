@@ -1,10 +1,10 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Blog
+landing-title: 'My Personal Blog'
 nav-menu: true
 description: null
 image: null
 author: null
-nav-menu: 1
+nav-menu: 3
 ---

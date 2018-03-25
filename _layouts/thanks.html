@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+       
+
+       <section id="thankyou" class="container">
+        <div class="thanks">
+            <div class="formsent"><strong><span class="mailSent"></span> Success! Message sent.</strong></div>
+            <h1>{{page.title}}</h1>
+            <p>{{page.description}}</p>
+        <a href="{{site.url | absolute_path}}/blog.html">Read My Personal Blog</a></div>
+    </section>
+    
+ {% include footer.html %}
+
+</body>
+
+</html>
