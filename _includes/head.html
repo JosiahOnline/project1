@@ -2,6 +2,32 @@
 	<title>{{ site.title }}</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	
+	<!-- Schema.org markup for Google+ -->
+	<meta itemprop="name" content="{{ page.metaname}}">
+    <meta itemprop="description" content="{{ page.description }}">
+    <meta itemprop="image" content="{{ page.image }}">
+    
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@OnlineBah">
+    <meta name="twitter:title" content="{{ page.metaname}}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:creator" content="@OnlineBah">
+    <!-- Twitter summary card with large image must be at least 280x150px -->
+    <meta name="twitter:image" content="{{ page.image }}">
+    
+    <!-- Open Graph data -->
+    <meta property="fb:page_id" content="152863758572196" />
+    <!-- must have app id-->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url | absolute_path }}" />
+    <meta property="og:title" content="{{ page.metaname}}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:image" content="{{ page.image }}" />
+    <meta property="og:image:alt" content="{{ page.alt }}" />
+	
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
 	<link rel="stylesheet" href="{{ site.url | absolute_path}}/assets/css/main.css" />
 	<link href="{{ site.url | absolute_path}}/assets/images/favicon/favicon-96x96.png"  rel="shortcut icon" type="image/x-icon">

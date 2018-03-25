@@ -1,9 +1,11 @@
 ---
 layout: home
 title: Home
+metaname: OnlineBah! Your solution for Web Development in Sandakan, Sabah.
 landing-title: 'Hi, my name is Josiah'
-description: null
-image: null
+description: Welcome to OnlineBah. I am Josiah from Sandakan, Sabah who works as a freelancer specialize in Web Development. This is my personal website where I write blog and share my ideas.
+image: assets/images/homepage2.jpg
+alt: Web Developer as Freelancer
 author: null
 ---
 
