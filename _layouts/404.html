@@ -2,6 +2,27 @@
 <html>
 
 {% include head.html %}
+<style>
+    section .error-container {
+        padding: 0 10%;
+        width: 100%;
+        height: 90vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+    }
+    .error-container h1, h2 {
+        text-align: center;
+    }
+    section h1 {
+        margin: 0.3em 0;
+    }
+    section div .homelink {
+        text-align: center;
+    }
+</style>
 
 <body>
 
@@ -9,11 +30,12 @@
 
    <section class="error-page">
     <div class="error-container">
-        <h1>{{page.description}}</h1>
-        <p>{{page.title}}</p>
-    <a href="{{site.url | absolute_path}}">Back to Home</a></div>
+        <h1>{{page.title}}</h1>
+        <h2>{{page.description}}</h2>
+        
+        <div class="homelink"><a href="{{site.url | absolute_path}}">Back to Home</a></div>
+    </div>
 </section>
-
 
 </body>
 

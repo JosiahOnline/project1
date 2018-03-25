@@ -2,21 +2,43 @@
 <html>
 
 {% include head.html %}
+<style>
+    section {
+        padding: 10% 10% 0;
+        width: 100%;
+        height: 85vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+    }
+    section div .formsent {
+        padding: 1em 0.8em;
+    }
+    section div .formsent strong {
+        padding: 1em 0.8em;
+        background: white;
+        border-radius: 4px;
+        color: #222222;
+    }
+    section h1 {
+        margin: 0.3em 0;
+    }
+</style>
 
 <body>
 
     {% include header.html %}
-       
 
-       <section id="thankyou" class="container">
+
+    <section id="thankyou" class="container">
         <div class="thanks">
-            <div class="formsent"><strong><span class="mailSent"></span> Success! Message sent.</strong></div>
+            <div class="formsent"><strong><span class="mailSent"></span>Success! Message sent.</strong></div>
             <h1>{{page.title}}</h1>
-            <p>{{page.description}}</p>
-        <a href="{{site.url | absolute_path}}/blog.html">Read My Personal Blog</a></div>
+            <h2>"{{page.description}}"</h2>
+            <a href="{{site.url | absolute_path}}/blog.html">Read My Blog</a></div>
     </section>
-    
- {% include footer.html %}
 
 </body>
 
