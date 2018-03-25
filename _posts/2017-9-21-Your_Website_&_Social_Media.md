@@ -2,6 +2,9 @@
 layout: post
 title: Your Website & Social Media
 description: Know your channels
+metaname: OnlineBah! Your solution for Web Development in Sandakan, Sabah.
+metadescription: Know your channels! Your Website & Social Media that links to customers!
+alt: Web Developer as Freelancer
 image: assets/images/blog5.jpg
 ---
 

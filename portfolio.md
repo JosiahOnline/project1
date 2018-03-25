@@ -1,7 +1,9 @@
 ---
 layout: portfolio
 title: Portfolio
-description: Lorem ipsum dolor est
+metaname: OnlineBah! Your solution for Web Development in Sandakan, Sabah.
+metadescription: Not just portfolio, but also my thoughts on these projects.
+alt: Web Developer as Freelancer
 image: assets/images/portfolio.jpg
 nav-menu: 3
 ---

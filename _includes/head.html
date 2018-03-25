@@ -4,16 +4,19 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	
+	<!--pinterest-->
+	<meta name="p:domain_verify" content="9c08d3b4316946a19a6f0a69a49c1e8b"/>
+	
 	<!-- Schema.org markup for Google+ -->
 	<meta itemprop="name" content="{{ page.metaname}}">
-    <meta itemprop="description" content="{{ page.description }}">
+    <meta itemprop="description" content="{{ page.metadescription }}">
     <meta itemprop="image" content="https://www.onlinebah.com/{{ page.image }}">
     
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@OnlineBah">
     <meta name="twitter:title" content="{{ page.metaname}}">
-    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:description" content="{{ page.metadescription }}">
     <meta name="twitter:creator" content="@OnlineBah">
     <!-- Twitter summary card with large image must be at least 280x150px -->
     <meta name="twitter:image" content="https://www.onlinebah.com/{{ page.image }}">
@@ -24,7 +27,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https//www.onlinebah.com" />
     <meta property="og:title" content="{{ page.metaname}}" />
-    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:description" content="{{ page.metadescription }}" />
     <meta property="og:image" content="https://www.onlinebah.com/{{ page.image }}" />
     <meta property="og:image:alt" content="{{ page.alt }}" />
 	
@@ -40,4 +43,20 @@
 	
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
+	<script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-96405567-1', 'auto');
+        ga('send', 'pageview');
+    </script>
 </head>

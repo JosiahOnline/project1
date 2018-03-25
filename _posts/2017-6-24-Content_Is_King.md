@@ -2,6 +2,9 @@
 layout: post
 title: Why content is King
 description: How today's businesses use website, social media and blog to show their expertise!
+metaname: OnlineBah! Your solution for Web Development in Sandakan, Sabah.
+metadescription: How do you show your expertise before your customer approach you?
+alt: Web Developer as Freelancer
 image: assets/images/blog1.jpg
 ---
 

@@ -2,6 +2,9 @@
 layout: post
 title: How to buy domain name
 description: Guide to purchase your domain name
+metaname: OnlineBah! Your solution for Web Development in Sandakan, Sabah.
+metadescription: Step by step guide to your first domain name purchase!
+alt: Web Developer as Freelancer
 image: assets/images/blog3.jpg
 ---
 

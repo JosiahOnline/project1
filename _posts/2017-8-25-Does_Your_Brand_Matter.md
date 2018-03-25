@@ -2,6 +2,9 @@
 layout: post
 title: Does your Brand Matter?
 description: How to gain more sales through branding
+metaname: OnlineBah! Your solution for Web Development in Sandakan, Sabah.
+metadescription: Do you want to gain more sales? What does your brand means?
+alt: Web Developer as Freelancer
 image: assets/images/blog2.jpg
 ---
 

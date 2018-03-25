@@ -2,6 +2,9 @@
 title: My Services
 layout: landing
 description: The aim of marketing is to know and understand the customer so well<br>the product or service fits him and sells itself.
+metaname: OnlineBah! Your solution for Web Development in Sandakan, Sabah.
+metadescription: It's time to focus on your brand rather than price. What do you think your customers think of you?
+alt: Web Developer as Freelancer
 image: assets/images/chosen/design.jpg
 nav-menu: 2
 ---
