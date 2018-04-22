@@ -2,7 +2,7 @@
 layout: post
 title: Responsive Website
 description: Design that fits all devices
-metaname: OnlineBah! Your solution for Web Development in Sandakan, Sabah.
+metaname: OnlineBah! Your solution for Web Design in Sandakan, Sabah.
 metadescription: Responsive Web Design that fits all smart devices!
 alt: Web Developer as Freelancer
 image: assets/images/responsive.jpg

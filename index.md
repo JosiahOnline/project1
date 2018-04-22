@@ -9,4 +9,4 @@ alt: Web Developer as Freelancer
 author: null
 ---
 
-I am a freelancer who loves everything about web development including research, design, coding, collecting feedback, problem solving, etc. My previous experiences involve in packaging design, advertising, branding and marketing research. If you need any help in your current projects, do contact me. I am more than happy to help your business grow.
+I am a freelancer who live in Sandakan, Sabah. I loves everything about web development including research, design, coding, collecting feedback, problem solving, etc. My greatest satisfaction comes when I am able to help my clients achieve their business goals. Before my life as web developer, my past experiences were involved in packaging design, advertising, branding, marketing research and HR recruitment. As a web developer, the goal is not just to design a beautiful website but also to achieve the business goals that aligns with it. Thus if you need any help in your current projects, do contact me. I am more than happy to help your business grow.

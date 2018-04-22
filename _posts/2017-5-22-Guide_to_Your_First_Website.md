@@ -2,7 +2,7 @@
 layout: post
 title: Guide to your first website
 description: Beginner Guide for your website
-metaname: OnlineBah! Your solution for Web Development in Sandakan, Sabah.
+metaname: OnlineBah! Your solution for Web Design in Sandakan, Sabah.
 metadescription: Basic understanding of setting up your first website!
 alt: Web Developer as Freelancer
 image: assets/images/blog4.jpg
